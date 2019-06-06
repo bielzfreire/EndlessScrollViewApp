@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EndlessScrollView</string>
+    <string name="app_name">ESV</string>
     <string name="local_db">Local Db</string>
     <string name="remote_db">Remote Db</string>
     <string name="copyright_image">Copyright Image</string>
