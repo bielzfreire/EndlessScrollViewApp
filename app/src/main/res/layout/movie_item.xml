@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.google.android.material.card.MaterialCardView
+<RelativeLayout
         xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
         android:orientation="vertical"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:cardElevation="8dp">
+        android:layout_height="wrap_content">
 
     <ImageView
             android:id="@+id/movie_item_image"
@@ -14,4 +13,4 @@
             android:src="@drawable/ic_launcher_foreground"
             android:contentDescription="@string/movie_item_image"/>
 
-</com.google.android.material.card.MaterialCardView>
+</RelativeLayout>
